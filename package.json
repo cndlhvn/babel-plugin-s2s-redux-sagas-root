@@ -1,7 +1,7 @@
 {
-  "name": "babel-plugin-s2s-redux-actions-sagas-root",
+  "name": "babel-plugin-s2s-redux-sagas-root",
   "version": "0.0.1",
-  "description": "generate redux actions sagas root",
+  "description": "generate redux sagas root",
   "license": "MIT",
   "scripts": {
     "build": "babel src --out-dir lib",
